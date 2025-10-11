@@ -2,3 +2,4 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+jacklin,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
