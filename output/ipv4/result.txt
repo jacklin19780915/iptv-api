@@ -1,11 +1,20 @@
 🕘️更新时间,#genre#
-2025-11-01 06:21:11,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-11-01 18:20:10,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
+CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📡卫视频道,#genre#
+广东卫视,http://111.221.137.155:44330/tsfile/live/0125_1.m3u8?key=txiptv
+湖南卫视,http://111.221.137.155:44330/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+东方卫视,http://111.221.137.155:44330/tsfile/live/0107_1.m3u8?key=txiptv
+辽宁卫视,http://111.221.137.155:44330/tsfile/live/0121_1.m3u8?key=txiptv
+云南卫视,http://sh.lnott.top:880/dx49.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -21,8 +30,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
