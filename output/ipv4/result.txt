@@ -1,17 +1,12 @@
 🕘️更新时间,#genre#
-2025-11-09 18:20:20,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-10 06:18:29,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-4,http://xtvantsc.xyz/Smart.php?id=cctv4
-CCTV-8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://111.221.137.155:44330/tsfile/live/0138_1.m3u8?key=txiptv
-安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8?key=txiptv
-陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
