@@ -1,23 +1,18 @@
 🕘️更新时间,#genre#
-2025-11-11 18:23:35,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-12 06:20:25,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📡卫视频道,#genre#
-广东卫视,http://sh.lnott.top:880/dx40.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://60.16.0.216:5757/hls/21/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-吉林卫视,http://sh.lnott.top:880/dx37.m3u8
-天津卫视,http://sh.lnott.top:880/dx30.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
