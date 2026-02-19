@@ -1,57 +1,63 @@
 🕘️更新时间,#genre#
-2026-02-18 06:32:30,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-02-19 18:44:15,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV-7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+CCTV-7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
+东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东南卫视,http://23.237.228.134/live6/dongnan.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
-贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 海南卫视,http://23.237.228.134/live6/hainan.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+宁夏卫视,https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=2
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 🌊港·澳·台,#genre#
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 
 🎬电影频道,#genre#
