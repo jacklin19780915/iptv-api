@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-06-19 21:36:16,http://173.208.212.130:8181/720p/cctv4.m3u8
+2026-06-20 06:58:26,http://173.208.212.130:8181/720p/cctv4.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-8,http://173.208.212.130:8181/720p/cctv8k.m3u8
+CCTV-8,http://173.208.212.130:8181/720p/cctv8.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=2650b27e8aa5dd88d003b77f0e759abc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -12,10 +12,8 @@ CCTV-8,http://173.208.212.130:8181/720p/cctv8k.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=e9d82e727780e80a83d0225fa0fa8dfe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=8ff7b22300175192a1f3daf4c5900eff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-甘肃卫视,http://204.12.221.218:8181/3m1080p/gsws.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
@@ -23,7 +21,6 @@ CCTV-8,http://173.208.212.130:8181/720p/cctv8k.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=3588853b57d954c33c7eef175200eae7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
 四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=1371e3dfea2fb75cd0fb6e0b1fb6a33a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 三沙卫视,http://204.12.221.218:8181/3m1080p/ssws.m3u8
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 天津卫视,http://204.12.221.218:8181/3m1080p/tjws.m3u8
@@ -36,8 +33,8 @@ CCTV-8,http://173.208.212.130:8181/720p/cctv8k.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
