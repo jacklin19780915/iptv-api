@@ -1,45 +1,31 @@
 🕘️更新时间,#genre#
-2026-06-23 20:34:08,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+2026-06-24 07:09:10,http://223.75.149.129:9906/tsfile/live/0002_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
-CCTV-1,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 CCTV-2,http://223.75.149.129:9906/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-4,http://173.208.212.130:8181/720p/cctv4k.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📡卫视频道,#genre#
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=c56d46d73457533e94deb4c1049a7767&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-广东卫视,http://222.90.21.30:9901/hls/22/index.m3u8
 浙江卫视,http://173.208.212.130:8181/1080p/zjws.m3u8
-湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-安徽卫视,http://222.90.21.30:9901/hls/25/index.m3u8
-东方卫视,http://204.12.221.218:8181/3m1080p/dfws.m3u8
-贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
-海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
-河南卫视,http://221.226.51.220:50081/newlive/live/hls/37/live.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
-江苏卫视,http://222.90.21.30:9901/hls/24/index.m3u8
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
-四川卫视,http://192.151.150.154/live/scwshd.m3u8
 四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
 三沙卫视,http://204.12.221.218:8181/3m1080p/ssws.m3u8
-三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 天津卫视,http://204.12.221.218:8181/3m1080p/tjws.m3u8
-天津卫视,http://222.90.21.30:9901/hls/43/index.m3u8
-新疆卫视,http://222.90.21.30:9901/hls/41/index.m3u8
-云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
