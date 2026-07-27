@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-26 06:56:27,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-27 20:55:46,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
@@ -16,7 +16,10 @@ CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
+西藏卫视,http://121.19.134.22:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://121.19.134.253:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
