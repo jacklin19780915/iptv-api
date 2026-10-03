@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-10-02 09:19:11,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-10-03 22:36:01,http://192.151.150.154/live/hnwshd.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
